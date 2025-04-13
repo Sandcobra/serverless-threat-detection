@@ -16,7 +16,7 @@ This project showcases a real-time, serverless security monitoring pipeline buil
 - **AWS Lambda** processes the events and sends alerts to Discord.
 - **AWS CloudWatch** monitors activity and provides operational insight.
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/27c1a828-3c83-4fc1-a226-1c8cb80a16a3)
 
 ## 🚀 Why This Project Matters
 
