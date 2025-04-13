@@ -42,7 +42,7 @@ This project demonstrates how to:
 
 ## ✅ Example Discord Alert
 
-![Discord Alert](./docs/discord-alert.png)
+![Discord Alert](./docs/discord-alert-fixed.png)
 
 ```json
 {
