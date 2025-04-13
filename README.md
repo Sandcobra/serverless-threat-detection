@@ -1,3 +1,5 @@
+![Animated Banner]([https://user-images.githubusercontent.com/your-github-username](https://github.com/user-attachments/assets/52ff0975-05a9-4a59-a2e4-b6d978bd2175/banner.gif)
+
 # 🔐 Serverless Threat Detection Pipeline
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?style=for-the-badge&logo=terraform)
