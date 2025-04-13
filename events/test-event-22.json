@@ -1,0 +1,8 @@
+{
+    "Records": [
+      {
+        "body": "{\"eventName\": \"CreateAccessKey\", \"userIdentity\": {\"userName\": \"unauthorized_user\"}, \"eventTime\": \"2025-04-10T13:44:12Z\", \"awsRegion\": \"us-east-1\"}"
+      }
+    ]
+  }
+  
