@@ -1,4 +1,4 @@
-![Animated Banner]([https://user-images.githubusercontent.com/your-github-username](https://github.com/user-attachments/assets/52ff0975-05a9-4a59-a2e4-b6d978bd2175/banner.gif)
+![Animated Banner]([https://user-images.githubusercontent.com/your-github-username](https://github.com/user-attachments/assets/52ff0975-05a9-4a59-a2e4-b6d978bd2175)
 
 # 🔐 Serverless Threat Detection Pipeline
 
